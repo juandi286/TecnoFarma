@@ -192,7 +192,7 @@ Clasificación de los Requerimientos No Funcionales
 - Realizacion de Estimaciones basado en los Requerimientos que nos provee El Cliente.
 
 
-Proyecto: Sistema de Gestión de Inventario para Farmacias (Tecno-Farma)
+- Estimacion de tiempos sobre el proyecto Proyecto: Sistema de Gestión de Inventario para Farmacias (Tecno-Farma)
 Descripción del Proyecto
 Este sistema tiene como objetivo facilitar la gestión del inventario en farmacias, permitiendo a los administradores y usuarios realizar diversas operaciones relacionadas con el control de productos, pedidos, reportes y más, asegurando un manejo eficiente y efectivo de los recursos.
 
