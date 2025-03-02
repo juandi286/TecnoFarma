@@ -1,9 +1,9 @@
 Backlog - Tecno-Farma 
 
 - Miembros
-    Santiago Jaramillo Arbelaez
-    Miguel Felipe Beltran
-    Juan Diego Franco
+-  Santiago Jaramillo Arbelaez
+-   Miguel Felipe Beltran
+-   Juan Diego Franco
 
 - Introduccion El software para farmacias de múltiples utilidades es una herramienta tecnológica esencial en el entorno farmacéutico contemporáneo. Con su diseño integral y su amplio conjunto de características, este programa se erige como un aliado fundamental para la gestión eficiente y efectiva de diversas operaciones dentro de una farmacia. Desde la gestión exhaustiva del inventario hasta la atención personalizada al cliente, pasando por la automatización de procesos de ventas y la gestión de recetas médicas, este software abarca una amplia gama de funciones críticas para el funcionamiento diario de una farmacia.
 
@@ -187,3 +187,117 @@ Clasificación de los Requerimientos No Funcionales
 - Rendimiento: RNF001, RNF002, RNF003, RNF004, RNF007, RNF015, RNF018
 - Espacio: No hay requerimientos específicos listados que se refieran exclusivamente al uso del espacio físico o de almacenamiento directamente, pero RNF004 (copias de seguridad) implica necesidades de almacenamiento eficiente.
 - Legislativos: RNF005, RNF009, RNF014, RNF025
+
+
+- Realizacion de Estimaciones basado en los Requerimientos que nos provee El Cliente.
+
+
+Proyecto: Sistema de Gestión de Inventario para Farmacias (Tecno-Farma)
+Descripción del Proyecto
+Este sistema tiene como objetivo facilitar la gestión del inventario en farmacias, permitiendo a los administradores y usuarios realizar diversas operaciones relacionadas con el control de productos, pedidos, reportes y más, asegurando un manejo eficiente y efectivo de los recursos.
+
+Requerimientos Funcionales
+RF001 - Integración con sistemas de punto de venta: Permitir al administrador integrarse con sistemas de punto de venta para actualizar el inventario en tiempo real tras cada venta. Estimación: 40 horas
+
+RF002 - Configuración de descuentos y promociones: Permitir al administrador configurar descuentos por volumen o promociones en productos específicos. Estimación: 30 horas
+
+RF003 - Interfaz amigable para usuarios: Proporcionar a los usuarios una interfaz amigable y fácil de usar para la rápida adición y búsqueda de productos en el inventario. Estimación: 50 horas
+
+RF004 - Manejo de múltiples sucursales: Permitir al administrador manejar múltiples sucursales de la farmacia, permitiendo la gestión centralizada del inventario. Estimación: 40 horas
+
+RF005 - Pedidos de reposición de stock: Permitir al administrador realizar pedidos de reposición de stock directamente a través del sistema. Estimación: 30 horas
+
+RF006 - Dashboard con KPIs: Proporcionar a los usuarios un dashboard con indicadores clave de rendimiento (KPIs) del inventario, como rotación de inventario y margen de ganancia. Estimación: 50 horas
+
+RF007 - Generación y envío de reportes: Permitir al administrador configurar y automatizar la generación y envío de reportes periódicos de inventario a la dirección de correo electrónico deseada. Estimación: 30 horas
+
+RF008 - Soporte técnico en línea: Permitir a los usuarios acceder al soporte técnico en línea. Estimación: 20 horas
+
+RF009 - Accesibilidad en plataformas móviles: Permitir al administrador operar en plataformas tanto de escritorio como móviles para accesibilidad en cualquier lugar. Estimación: 40 horas
+
+RF010 - Gestión de recetas médicas: Permitir al administrador gestionar las recetas médicas, incluyendo la verificación de stock de los medicamentos prescritos. Estimación: 40 horas
+
+RF011 - Impresión de etiquetas: Permitir al administrador imprimir etiquetas para los productos, incluyendo información como precio, código de barras y fecha de vencimiento. Estimación: 20 horas
+
+RF012 - Vista de calendario: Permitir al administrador acceder a una vista de calendario para seguimiento de fechas de vencimiento y pedidos programados. Estimación: 30 horas
+
+RF013 - Análisis de rentabilidad: Permitir al administrador realizar análisis de rentabilidad por producto o categoría. Estimación: 40 horas
+
+RF014 - Gestión de garantías: Permitir al administrador gestionar las garantías de productos dentro del inventario, registrando fechas de inicio y fin de la garantía. Estimación: 30 horas
+
+RF015 - Alarmas para mantenimiento: Permitir al administrador configurar y gestionar alarmas para mantenimiento de equipos y maquinaria dentro de la farmacia. Estimación: 30 horas
+
+RF016 - Gestión de pedidos en línea: Permitir a los usuarios gestionar los pedidos en línea y la disponibilidad de inventario para la venta en línea. Estimación: 50 horas
+
+RF017 - Herramienta de ayuda y tutoriales: Permitir a los usuarios acceder a una herramienta de ayuda y tutoriales para facilitar el aprendizaje de las funcionalidades del sistema. Estimación: 30 horas
+
+RF018 - Integración con sistemas de seguimiento de envíos: Permitir a los usuarios integrarse con sistemas de seguimiento de envíos para gestionar las entregas de pedidos en línea. Estimación: 40 horas
+
+RF019 - Actualizaciones de funcionalidades: Permitir a los usuarios recibir actualizaciones para asegurar que tengan acceso a las últimas funcionalidades. Estimación: 20 horas
+
+RF020 - Registro de nuevos productos: Permitir al administrador registrar nuevos productos en el inventario con detalles como nombre, categoría, precio, cantidad, fecha de vencimiento y número de lote. Estimación: 30 horas
+
+RF021 - Actualización de productos existentes: Permitir al administrador actualizar la información de los productos existentes en el inventario. Estimación: 20 horas
+
+RF022 - Eliminación de productos: Permitir al administrador eliminar productos del inventario. Estimación: 20 horas
+
+RF023 - Búsqueda de productos: Permitir a los usuarios buscar productos en el inventario por nombre, categoría o número de lote. Estimación: 30 horas
+
+RF024 - Alertas de bajo stock: Permitir a los usuarios mostrar alertas de productos con bajo stock basado en un umbral definido por el usuario. Estimación: 30 horas
+
+RF025 - Alertas de productos próximos a vencer: Permitir a los usuarios generar alertas para productos próximos a vencer. Estimación: 30 horas
+
+RF026 - Conteos físicos de inventario: Permitir a los usuarios realizar conteos físicos del inventario y ajustar las cantidades en el sistema. Estimación: 40 horas
+
+RF027 - Importación de datos: Permitir al administrador realizar la importación de datos de inventario desde archivos en formatos CSV o Excel. Estimación: 30 horas
+
+RF028 - Exportación de datos: Permitir al administrador realizar la exportación de datos de inventario a archivos en formatos CSV o Excel. Estimación: 30 horas
+
+RF029 - Generación de reportes de inventario: Permitir a los usuarios generar reportes de inventario actuales, incluyendo stock total, valor del inventario y productos por vencer. Estimación: 40 horas
+
+RF030 - Registro de entradas de nuevos suministros: Permitir a los usuarios registrar las entradas de nuevos suministros al inventario. Estimación: 30 horas
+
+RF031 - Registro de salidas de productos: Permitir a los usuarios registrar las salidas de productos del inventario. Estimación: 30 horas
+
+RF032 - Historial de transacciones: Permitir a los usuarios mantener un historial de todas las transacciones de inventario, incluyendo entradas y salidas. Estimación: 40 horas
+
+RF033 - Gestión de proveedores: Permitir al administrador gestionar proveedores, incluyendo registro, actualización y eliminación de proveedores. Estimación: 30 horas
+
+RF034 - Asociación de productos a proveedores: Permitir al administrador asociar productos a sus respectivos proveedores. Estimación: 20 horas
+
+RF035 - Reportes de compras a proveedores: Permitir al administrador generar reportes de compras a proveedores, incluyendo cantidades, fechas y costos. Estimación: 30 horas
+
+RF036 - Gestión de devoluciones a proveedores: Permitir al administrador registrar y gestionar las devoluciones de productos a proveedores. Estimación: 30 horas
+
+RF037 - Configuración de múltiples usuarios: Permitir al administrador dar soporte a la configuración de múltiples usuarios con diferentes niveles de acceso y permisos. Estimación: 40 horas
+
+RF038 - Autenticación de usuario: Permitir al administrador dar autenticación de usuario para acceder a cualquier funcionalidad de gestión de inventario. Estimación: 30 horas
+
+RF039 - Historial de cambios de productos: Permitir al administrador registrar y mostrar el historial de cambios de cada producto en el inventario. Estimación: 30 horas
+
+RF040 - Gestión de categorías de productos: Permitir al administrador gestionar categorías de productos para una organización eficiente del inventario. Estimación: 30 horas
+
+RF041 - Notificaciones automáticas: Permitir al administrador configurar las notificaciones automáticas vía correo electrónico para alertas de inventario críticas. Estimación: 30 horas
+
+RF042 - Gestión de ubicaciones: Permitir a los usuarios gestionar ubicaciones dentro de la farmacia para un almacenamiento eficiente de los productos. Estimación: 30 horas
+
+RF043 - Predicción de stock: Permitir al administrador ejecutar una función de predicción de stock basada en historiales de venta y tendencias. Estimación: 40 horas
+
+RF044 - Trazabilidad de lotes: Permitir al administrador realizar la trazabilidad completa de los lotes de medicamentos para cumplir con regulaciones sanitarias. Estimación: 40 horas
+
+RF045 - Alertas para revisión de productos: Permitir al administrador configurar las alertas para la revisión de productos no vendidos o de lento movimiento. Estimación: 30 horas
+
+RF046 - Pedidos automáticos de reposición: Permitir al administrador la opción de realizar pedidos automáticos de reposición basados en niveles mínimos de stock definidos. Estimación: 40 horas
+
+RF047 - Creación de paquetes o kits: Permitir al administrador realizar la creación de paquetes o kits de productos, gestionando su inventario como una unidad. Estimación: 30 horas
+
+RF048 - Generación y lectura de códigos de barras/QR: Permitir a los usuarios generar y leer códigos de barras y QR para productos. Estimación: 30 horas
+
+RF049 - Medidas de seguridad para protección de datos: Permitir al administrador incluir medidas de seguridad para la protección de datos sensibles, incluyendo cifrado de datos y copias de seguridad automáticas. Estimación: 50 horas
+
+RF050 - Integración con sistemas de contabilidad: Permitir al administrador integrarse con sistemas de contabilidad para la actualización automática de costos y ventas. Estimación: 40 horas
+
+Resumen de Estimaciones
+Total de horas estimadas: 1,470 horas
+Total con pruebas y documentación (25% adicional): 1,837.5 horas
+
