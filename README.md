@@ -1,9 +1,9 @@
 Backlog - Tecno-Farma.
 
 - Miembros
--  Santiago Jaramillo Arbelaez
--   Miguel Felipe Beltran
--   Juan Diego Franco
+- Santiago Jaramillo Arbelaez (analista, Scrum master)
+- Miguel Felipe Beltran (Desarrollador, Lider Del equipo)
+- Juan Diego Franco (Desarrollador, Tester)
 
 - Introduccion El software para farmacias de múltiples utilidades es una herramienta tecnológica esencial en el entorno farmacéutico contemporáneo. Con su diseño integral y su amplio conjunto de características, este programa se erige como un aliado fundamental para la gestión eficiente y efectiva de diversas operaciones dentro de una farmacia. Desde la gestión exhaustiva del inventario hasta la atención personalizada al cliente, pasando por la automatización de procesos de ventas y la gestión de recetas médicas, este software abarca una amplia gama de funciones críticas para el funcionamiento diario de una farmacia.
 
@@ -39,13 +39,23 @@ Cumplimiento normativo y trazabilidad: En el sector farmacéutico, es fundamenta
 
 Un software de inventario puede ayudar a la farmacia a mantener registros precisos y completos que cumplan con estos requisitos regulatorios, lo que minimiza el riesgo de incumplimiento y sanciones.En resumen, la implementación de un software de inventario para una farmacia ofrece una serie de ventajas que van desde la optimización de procesos internos hasta la mejora del servicio al cliente y el cumplimiento normativo. Es una inversión que no solo aumenta la eficiencia operativa de la farmacia, sino que también contribuye a su competitividad y rentabilidad a largo plazo.
 
+-¿Cual es nuestro Objetivo general como empresa?
+
+Desarrollar un software integral que optimice los procesos de gestión, inventario y atención al cliente en la farmacia, aumentando la eficiencia, la rentabilidad y la satisfacción del cliente.
+
+-¿Objetivos Especificos?
+
+1-Implementar un sistema de análisis de datos en el software para una farmacia que permita la monitorización de ventas, tendencias de consumo y perfil del cliente, con el fin de optimizar las estrategias de marketing y aumentar las ventas.
+                                                            
+2-Optimizar la gestión del inventario para reducir el tiempo de gestión de pedidos. Automatizando la solicitud de pedidos a proveedores, la recepción de productos y la generación de informes de inventario.
+
+3-Mejorar la atención al cliente disminuyendo el tiempo de espera en la atención en un 30%.
 
 
 - Realizacion de toma de requerimientos con el cliente final mediante una reunion Presencial.
 
 Los cuales estan organizados en 3 categorias; Almacen, Solicitud Del cliente y  Contabilidad (Estamos claros que se pueden recibir cambios o requerimientos nuevos que tengamos que implementar, Y estamos Firmes y sabemos que debemos 
 Estar muy pendientes a la hora de la modificacion de la documentacion y documentos necesarios a la hora de entregar)
-
 
 RF001	El sistema debe permitir al administrador integrarse con sistemas de punto de venta para actualizar el inventario en tiempo real tras cada venta.																				
 
@@ -188,6 +198,11 @@ Espacio: No hay requerimientos específicos listados que se refieran exclusivame
 Legislativos: RNF005, RNF009, RNF014, RNF025
 
 
+- Realizacion De wireframes en forma Fisica y luego Digital para la simulacion del Producto final.
+
+(Adjuntados en el Repositorio)
+
+
 - Realizacion de Estimaciones basado en los Requerimientos que nos provee El Cliente.
 
 
@@ -299,4 +314,17 @@ RF050 - Integración con sistemas de contabilidad: Permitir al administrador int
 Resumen de Estimaciones
 Total de horas estimadas: 1,470 horas
 Total con pruebas y documentación (25% adicional): 1,837.5 horas
+
+-Realizacion de diagrama MER
+
+(Adjunto en El repositorio)
+
+-Realizacion de stake Holders.
+
+(adjuntos en el repositorio)
+
+- Realizacion de Diagramas entidad relacion y Diagramas de frlujo.
+
+(adjuntos en el Repositorio)
+
 
