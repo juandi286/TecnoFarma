@@ -1,4 +1,4 @@
-Backlog - Tecno-Farma 
+Backlog - Tecno-Farma.
 
 - Miembros
 -  Santiago Jaramillo Arbelaez
