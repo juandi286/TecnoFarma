@@ -180,13 +180,12 @@ algunos requerimientos No funcionales pero que tambien fueron Tomados por parte 
 
 Clasificación de los Requerimientos No Funcionales
 
-
-- Usabilidad: RNF008, RNF010, RNF012, RNF013, RNF021
-- Portabilidad: RNF006, RNF010, RNF023
-- Eficiencia: RNF022, RNF024
-- Rendimiento: RNF001, RNF002, RNF003, RNF004, RNF007, RNF015, RNF018
-- Espacio: No hay requerimientos específicos listados que se refieran exclusivamente al uso del espacio físico o de almacenamiento directamente, pero RNF004 (copias de seguridad) implica necesidades de almacenamiento eficiente.
-- Legislativos: RNF005, RNF009, RNF014, RNF025
+Usabilidad: RNF008, RNF010, RNF012, RNF013, RNF021
+Portabilidad: RNF006, RNF010, RNF023
+Eficiencia: RNF022, RNF024
+Rendimiento: RNF001, RNF002, RNF003, RNF004, RNF007, RNF015, RNF018
+Espacio: No hay requerimientos específicos listados que se refieran exclusivamente al uso del espacio físico o de almacenamiento directamente, pero RNF004 (copias de seguridad) implica necesidades de almacenamiento eficiente.
+Legislativos: RNF005, RNF009, RNF014, RNF025
 
 
 - Realizacion de Estimaciones basado en los Requerimientos que nos provee El Cliente.
